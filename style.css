@@ -96,6 +96,7 @@ header nav .inner ul li a:hover{
 .one h2{
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
   color: white;
+  padding-left: 20px
 }
 .one p.name{
   font-size: 20px;
@@ -111,9 +112,10 @@ header nav .inner ul li a:hover{
 .research h2{
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
   color: white;
+  padding-left: 20px
 }
 .research p{
-  padding: 10px
+  padding: 20px;
 }
 .paper{
   padding: 30px 20px
@@ -122,10 +124,11 @@ header nav .inner ul li a:hover{
 .paper h2{
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
   color: white;
+  padding-left: 20px
 }
 
 .paper p{
-  padding: 10px
+  padding: 20px
 }
 
 .skills{
@@ -135,6 +138,7 @@ header nav .inner ul li a:hover{
 .skills h2{
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
   color: white;
+  padding-left: 20px
 }
 
 
@@ -152,6 +156,7 @@ header nav .inner ul li a:hover{
 .git h2{
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
   color: white;
+  padding-left: 20px
 }
 .git a figure{
   text-align: center;
@@ -163,10 +168,12 @@ header nav .inner ul li a:hover{
 .mail h2{
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
   color: white;
+  padding-left: 20px
 }
 
-.mail.p{
+.mail p{
   padding: 10px;
+
 }
 
 footer{
