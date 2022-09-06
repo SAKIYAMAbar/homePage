@@ -15,7 +15,7 @@ header{
 }
 header nav{
   display: block;
-  width: 220px;
+  width: 500px;
   position: fixed;
   /*background-color: #ffffff;*/
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
