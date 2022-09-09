@@ -6,12 +6,14 @@ body{
   font-family: sans-serif;
 }
 main{
-  padding: 50px;
+  padding: 30px;
 }
 header{
+  position: fixed;
   text-align: center;
   background: linear-gradient(to right, rgb(128,0,128),rgb(192,52,52));
   color: white;
+  width: 100%;
 }
 header nav{
   display: block;
@@ -90,7 +92,8 @@ header nav .inner ul li a:hover{
 }
 
 .one{
-  padding: 30px 20px
+  padding: 30px 20px;
+  padding-top: 130px;
 }
 
 .one h2{
