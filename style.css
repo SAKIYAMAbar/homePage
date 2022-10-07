@@ -124,8 +124,6 @@ header nav .inner ul li a:hover{
   width: 640px; /*画像サイズ指定*/
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  position: relative;
 }
 .research .flex .text{
   padding: 20px;
