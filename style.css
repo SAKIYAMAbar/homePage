@@ -118,6 +118,7 @@ header nav .inner ul li a:hover{
   padding-left: 20px
 }
 .research p{
+  display: flex;
   padding: 20px;
 }
 .paper{
