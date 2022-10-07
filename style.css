@@ -130,23 +130,7 @@ header nav .inner ul li a:hover{
 .research .flex .text{
   padding: 20px;
 }
-.research .flex .image {
-  overflow: hidden;
-  position: relative;
-}
-.research .flex .image::before {
-  content: "";
-  display: block;
-  padding-top: 58%;
-}
-.research .flex .image img {
-  width: 100%;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-}
+
 .paper{
   padding: 30px 20px
 }
