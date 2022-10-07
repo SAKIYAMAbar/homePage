@@ -119,6 +119,7 @@ header nav .inner ul li a:hover{
 }
 .research .flex {
   display: flex; /*横並び*/
+  text-align: left;
 }
 .research .flex .image {
   width: 640px; /*画像サイズ指定*/
