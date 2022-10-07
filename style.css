@@ -117,9 +117,17 @@ header nav .inner ul li a:hover{
   color: white;
   padding-left: 20px
 }
-.research p{
-  display: flex;
-  justify-content: space-between;
+.research .flex {
+  display: flex; /*横並び*/
+}
+.research .flex .image {
+  width: 640px; /*画像サイズ指定*/
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+}
+.research .flex .text{
   padding: 20px;
 }
 .paper{
